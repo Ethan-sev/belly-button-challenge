@@ -1,1 +1,2 @@
 # belly-button-challenge
+This assignment was pretty straightforward. I struggled on syntax errors but it helps that it tells me what line my error is on so I can check it easier. I made the text red so it is a little easier to see. I tried to do a little more than that with the color but couldnt figure out the syntax so just kept it all red. Chat Gpt, Expert Learning and bcs were used in order to solve this challenge becuase of how many problems I was running into on syntax. 
